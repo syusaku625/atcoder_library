@@ -1,5 +1,3 @@
-
-
 const int mod = 1000000007;
 struct mint {
  long long x;
